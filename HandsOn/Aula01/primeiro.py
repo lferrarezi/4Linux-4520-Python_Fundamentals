@@ -57,4 +57,5 @@ aluno1 = {
 alunos = [aluno0, aluno1]
 
 print(alunos[0])
+time.sleep
 print(alunos[0]["nome"])

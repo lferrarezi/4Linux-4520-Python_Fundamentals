@@ -14,3 +14,6 @@ while tamanho < len(lista):
 
 for numero in lista:
     print("par" if numero % 2 == 0 else "impar")
+
+for number in range(0,100,2):
+    print(number)
